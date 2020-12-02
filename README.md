@@ -9,6 +9,7 @@ Starter for coding with jest.
 
 ## Getting Started
 
+
 ### Install dependencies
 
 Before starting to code, don't forget to install all dependencies.

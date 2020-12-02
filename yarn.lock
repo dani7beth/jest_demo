@@ -16,6 +16,7 @@
   dependencies:
     "@babel/highlight" "^7.0.0"
 
+
 "@babel/core@^7.1.0":
   version "7.4.4"
   resolved "https://registry.yarnpkg.com/@babel/core/-/core-7.4.4.tgz#84055750b05fcd50f9915a826b44fa347a825250"
